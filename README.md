@@ -25,23 +25,7 @@ The dashboard transforms raw e-commerce data into meaningful business insights u
 - Data Visualization
 
 ## 📑 Dashboard Pages
-## 📸 Dashboard Preview
 
-### 📊 Overview
-
-![Overview](images/Overview.png)
-
-### 🛍️ Product Analysis
-
-![Product Analysis](images/Products.png)
-
-### 👥 Customer Analysis
-
-![Customer Analysis](images/Customers.png)
-
-### 🚚 Shipping Analysis
-
-![Shipping Analysis](images/Shipping.png)
 ### 1. Overview
 - YTD Sales
 - YTD Profit
@@ -82,7 +66,23 @@ The dashboard transforms raw e-commerce data into meaningful business insights u
 - Average Delay by Shipping Type
 - Delivery Status
 - Orders by Shipping Type
+## 📸 Dashboard Preview
 
+### 📊 Overview
+
+![Overview](images/Overview.png)
+
+### 🛍️ Product Analysis
+
+![Product Analysis](images/Products.png)
+
+### 👥 Customer Analysis
+
+![Customer Analysis](images/Customers.png)
+
+### 🚚 Shipping Analysis
+
+![Shipping Analysis](images/Shipping.png)
 ## 🔍 Dashboard Features
 
 - Interactive page navigation
@@ -117,36 +117,3 @@ Computer Science & Engineering Student | Aspiring Data Analyst
 
 **Skills:** Power BI | SQL | Excel | Python | Data Analytics
 
-## 🔍 Dashboard Features
-
-- Interactive page navigation
-- Year filter
-- Customer segment filter
-- Region filter
-- Category filter
-- Synchronized slicers across pages
-- KPI cards
-- Interactive charts
-- Geographic visualization
-- Product performance analysis
-- Customer analysis
-- Shipping analysis
-
-## 💡 Key Insights
-
-The dashboard helps identify:
-
-- Regional differences in sales performance
-- High and low performing products
-- Customer segments contributing to sales
-- Product category performance
-- Shipping and delivery performance
-- Areas where business performance can be improved
-
-## 👩‍💻 Author
-
-**Varsha Jaini**
-
-Computer Science & Engineering Student | Aspiring Data Analyst
-
-**Skills:** Power BI | SQL | Excel | Python | Data Analytics
